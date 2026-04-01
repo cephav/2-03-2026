@@ -1,0 +1,23 @@
+A
+// mkdir mywebsite
+// cd mywebsite
+
+// git init
+
+// create 5 html files
+
+// git add .
+
+// git commit -m "Initial commit with 5 web pages"
+
+// B
+
+// git remote add origin https://github.com/username/repo-name.git
+
+// git branch -M main
+
+// git push -u origin main
+
+// C
+
+// Go to repository → Settings→ Click Pages →Select: Branch: main, Folder: /root→ Click Save
